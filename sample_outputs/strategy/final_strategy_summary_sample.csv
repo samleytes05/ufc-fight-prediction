@@ -1,0 +1,3 @@
+"strategy_name","total_bets","total_profit","roi","win_rate","max_drawdown","longest_losing_streak","profitable_folds_pct","decision"
+"V2_Core","262","2937.181279169311","0.11210615569348516","0.6030534351145038","1117.291045177777","5","0.8","ACCEPT"
+"V2_Fav","182","2208.1812791693114","0.12132864171259954","0.6648351648351648","597.9568228858334","3","1.0","REJECT"
